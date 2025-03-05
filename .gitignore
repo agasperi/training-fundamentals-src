@@ -10,3 +10,4 @@ _legacy
 gradle/
 gradlew*
 .vscode
+**/test-gradle-user-home/
